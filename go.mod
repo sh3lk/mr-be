@@ -1,4 +1,4 @@
-module prashantgithub/golang-echo-api/go-echo-api
+module shelkop/mr-be
 
 go 1.13
 
